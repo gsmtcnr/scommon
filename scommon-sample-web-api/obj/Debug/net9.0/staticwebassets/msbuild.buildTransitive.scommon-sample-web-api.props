@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/scommon-sample-web-api.props" />
+</Project>

@@ -1,0 +1,12 @@
+/Users/gsmtcnr/Documents/Projects/sc/scommon/scommon/obj/Debug/net9.0/scommon.csproj.AssemblyReference.cache
+/Users/gsmtcnr/Documents/Projects/sc/scommon/scommon/obj/Debug/net9.0/scommon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gsmtcnr/Documents/Projects/sc/scommon/scommon/obj/Debug/net9.0/scommon.AssemblyInfoInputs.cache
+/Users/gsmtcnr/Documents/Projects/sc/scommon/scommon/obj/Debug/net9.0/scommon.AssemblyInfo.cs
+/Users/gsmtcnr/Documents/Projects/sc/scommon/scommon/obj/Debug/net9.0/scommon.csproj.CoreCompileInputs.cache
+/Users/gsmtcnr/Documents/Projects/sc/scommon/scommon/bin/Debug/net9.0/scommon.deps.json
+/Users/gsmtcnr/Documents/Projects/sc/scommon/scommon/bin/Debug/net9.0/scommon.dll
+/Users/gsmtcnr/Documents/Projects/sc/scommon/scommon/bin/Debug/net9.0/scommon.pdb
+/Users/gsmtcnr/Documents/Projects/sc/scommon/scommon/obj/Debug/net9.0/scommon.dll
+/Users/gsmtcnr/Documents/Projects/sc/scommon/scommon/obj/Debug/net9.0/refint/scommon.dll
+/Users/gsmtcnr/Documents/Projects/sc/scommon/scommon/obj/Debug/net9.0/scommon.pdb
+/Users/gsmtcnr/Documents/Projects/sc/scommon/scommon/obj/Debug/net9.0/ref/scommon.dll
